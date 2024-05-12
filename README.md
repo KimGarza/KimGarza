@@ -1,5 +1,6 @@
-### Hi there 👋
-
+Hi there 👋
+🔭 I’m currently working on a video game in C++ and a simulated router app made in Go and React!
+🌱 I’m currently learning Linux, and Docker, with a dash of AWS Cloud Practitioner and sprinkle Network+. Spreading myself as thin as the last scrapings of jam for a big piece of toast!
 <!--
 **KimGarza/KimGarza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
