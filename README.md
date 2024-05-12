@@ -10,7 +10,7 @@ But I am gaining a more in-depth education on these topics for my own confidence
 Spreading myself as thin as the last scrapings of jam for a big piece of toast!
 
 Tech statck:
-https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white
+<img src="{https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white}" />
 <!--
 **KimGarza/KimGarza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
