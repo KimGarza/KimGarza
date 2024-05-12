@@ -11,6 +11,11 @@ Spreading myself as thin as the last scrapings of jam for a big piece of toast!
 
 Tech statck:
 <img src="https://camo.githubusercontent.com/7aaa08e515b1ad4e78f4e4e037d0729f772cd09737a98123a42588c5719f6860/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163745f4e61746976652d3230323332413f6c6f676f3d7265616374266c6f676f436f6c6f723d363144414642">
+
+<img src="https://camo.githubusercontent.com/7aaa08e515b1ad4e78f4e4e037d0729f772cd09737a98123a42588c5719f6860/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163745f4e61746976652d3230323332413f6c6f676f3d7265616374266c6f676f436f6c6f723d363144414642">
+
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
+
 <img src="{https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
 <img src="{https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white}" />
 ![image]({https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white})
