@@ -1,5 +1,7 @@
 Hi there 👋
 
+I'm Kim Possible, because nothing is impossible! Ew cringe, sorry...
+
 🔭 I’m currently working on a video game in C++ and a simulated router app made in Go and React!
 
 🌱 I’m currently learning Linux, and Docker, with a dash of AWS Cloud Practitioner and sprinkle Network+.
@@ -8,6 +10,8 @@ But I am gaining a more in-depth education on these topics for my own confidence
 
 ✨ In a couple months I start an online Cornell Univeristy certification course in Python.
 Spreading myself as thin as the last scrapings of jam for a big piece of toast!
+
+😄 My interests are video games, spend my time watching movies, a lot youtube and time with my family. I love outside adventures, I'm still a 90's kid after all, not everything needs to involve a screen!
 
 Tech statck:
 
