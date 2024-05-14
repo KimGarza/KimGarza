@@ -4,7 +4,7 @@ I'm Kim Possible, because nothing is impossible! Cringe, sorry...
 
 🔭 I’m currently working on a video game in C++ and a simulated router app made in Go and React!
 
-🌱 I’m currently learning Linux, and Docker, with a dash of AWS Cloud Practitioner and sprinkle Network+.
+🌱 I am currently studying to take my AWS Cloud Practitioner exam. Also I am learning Linux, and Docker, with a dash of Network+.
 I have experience in AWS, Azure, containerizing apps with Docker, CI/CD Pipelines and some networking.
 But I am gaining a more in-depth education on these topics for my own confidence in them as well as certifications!
 
