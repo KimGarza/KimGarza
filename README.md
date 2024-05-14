@@ -11,7 +11,7 @@ But I am gaining a more in-depth education on these topics for my own confidence
 ✨ In a couple months I start an online Cornell Univeristy certification course in Python.
 Spreading myself as thin as the last scrapings of jam for a big piece of toast!
 
-😄 My interests are video games, spend my time watching movies, a lot youtube and with my family. I love outside adventures, I'm still a 90's kid after all, not everything needs to involve a screen!
+😄 My interests are video games, spend my time watching movies, a lot youtube and time with my family. I love outside adventures, I'm still a 90's kid after all, not everything needs to involve a screen!
 
 Tech statck:
 
