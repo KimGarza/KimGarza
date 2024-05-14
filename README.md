@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Kim Possible, because nothing is impossible! Ew cringe, sorry...
+I'm Kim Possible, because nothing is impossible! Cringe, sorry...
 
 🔭 I’m currently working on a video game in C++ and a simulated router app made in Go and React!
 
