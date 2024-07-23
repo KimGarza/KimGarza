@@ -1,7 +1,5 @@
 Hi there 👋
 
-I'm Kim Possible, because nothing is impossible! Cringe, sorry...
-
 🔭 I’m currently working on a video game in C++ and a simulated router app made in Go and React!
 
 🌱 I am currently studying to take my AWS Cloud Practitioner exam. Also I am learning Linux, and Docker, with a dash of Network+.
