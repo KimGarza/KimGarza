@@ -1,12 +1,12 @@
 Hi there 👋
 
-🔭 I’m currently working on a video game in C++ and a simulated router app made in Go and React!
+🔭 I’m currently working on a photo editing app in React Native with Expo - I will be containerizing it and deploying it through AWS very soon!
 
-🌱 I am currently studying to take my AWS Cloud Practitioner exam. Also I am learning Linux, and Docker, with a dash of Network+.
+🌱 I am currently studying to take my AWS Cloud Practitioner exam. Also I am learning Linux, and Docker, with a dash of Network+, (I continue to desire to have a better understanding of networking concepts).
 I have experience in AWS, Azure, containerizing apps with Docker, CI/CD Pipelines and some networking.
 But I am gaining a more in-depth education on these topics for my own confidence in them as well as certifications!
 
-😄 My interests are video games, spend my time watching movies, a lot youtube and time with my family. Also apparently spreading myself as thin as the last scrapings of jam on a big piece of toast! I love outside adventures, I'm still a 90's kid after all, not everything needs to involve a screen!
+😄 My interests are creating (art, 3D, game development, apps, drawing, painting, cooking), playing video games, spending my time watching movies, a lot youtube and time with my family. Also apparently spreading myself as thin as the last scrapings of jam on a big piece of toast! I love outside adventures, I'm still a 90's kid after all, not everything needs to involve a screen!
 
 Tech statck:
 
