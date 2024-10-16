@@ -1,6 +1,6 @@
 Hi there 👋
 
-🔭 I’m currently working on a photo editing app in React Native with Expo
+🔭 I’m currently working on a photo editing app in React Native with Expo and most recently an ASP.NET backend API which I will use to leverage several AWS resources for hands on experience to assist with my studies.
 
 🌱 I am currently studying to take my AWS Cloud Practitioner exam. Also I am learning Linux, and Docker, with a dash of Network+, (I desire to have a better understanding of networking concepts).
 I have experience in AWS, Azure, containerizing apps with Docker, CI/CD Pipelines and some networking.
